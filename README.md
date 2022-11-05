@@ -14,3 +14,5 @@ We learn 10 sprints during 4 month program.
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
+
+Badges: https://www.credly.com/users/chainarong-uttamote
