@@ -10,4 +10,7 @@ We learn 10 sprints during 4 month program.
 - Data Transformation
 - Data Visualization
 - Statistics
-- etc.
+- Intro to Classical Machine Learning
+- Intro to Python
+- Essential Python for Data Analyst
+- Dashboard
