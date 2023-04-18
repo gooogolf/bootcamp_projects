@@ -17,6 +17,6 @@ We learn 10 sprints during 4 month program.
 
 Badges: 
 - https://www.linkedin.com/in/chainarong/details/certifications/
-- https://badgr.com/public/assertions/RvaX5u3VRYyNq8_f8FQcqg
+- https://api.badgr.io/public/assertions/RvaX5u3VRYyNq8_f8FQcqg
 - https://www.credly.com/users/chainarong-uttamote
 
