@@ -2,8 +2,6 @@
 
 Data Science Bookcamp with DataRockie
 
-We learn 10 sprints during 4 month program.
-
 - Spreadsheets
   - [Dynamic Query](https://docs.google.com/spreadsheets/d/1_Fge7c9zpIHCVsHlVFzWniwmPRcyTAF55hCjWMsnnAs/edit#gid=1981431105)
   - [Convert Buddhist Era (B.E.) to Anno Domini (A.D.) Date](https://docs.google.com/spreadsheets/d/1_Fge7c9zpIHCVsHlVFzWniwmPRcyTAF55hCjWMsnnAs/edit#gid=1656509133)
