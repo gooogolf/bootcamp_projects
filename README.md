@@ -10,7 +10,7 @@ Data Science Bookcamp with DataRockie
   - [Ron's Mano Mexi QSR](https://replit.com/@RonUltramode/SQLassignmentbatch6)
 - R Programming
   - [Pizza Chatbot](https://replit.com/@RonUltramode/Batch06ChatbotPizza)
-  - [Rock, Paper, Scissor] (https://replit.com/@RonUltramode/Batch06RPS-game)
+  - [Rock, Paper, Scissor](https://replit.com/@RonUltramode/Batch06RPS-game)
 - Data Transformation
   - NYC Flights 2013 Analysis
     - [Datalore version](https://datalore.jetbrains.com/view/notebook/TMJWywCRdX1RLcFswOoCBG)
