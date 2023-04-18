@@ -13,6 +13,10 @@ We learn 10 sprints during 4 month program.
 - Intro to Classical Machine Learning
 - Intro to Python
 - Essential Python for Data Analyst
-- Dashboard
+- Dashboard https://lookerstudio.google.com/reporting/3768e8b5-822b-4d35-b954-feb34c37324c
 
-Badges: https://www.credly.com/users/chainarong-uttamote
+Badges: 
+- https://www.linkedin.com/in/chainarong/details/certifications/
+- https://badgr.com/public/assertions/RvaX5u3VRYyNq8_f8FQcqg
+- https://www.credly.com/users/chainarong-uttamote
+
