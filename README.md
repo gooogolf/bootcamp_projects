@@ -24,7 +24,7 @@ Data Science Bookcamp with DataRockie
 - Essential Python for Data Analyst
 - Dashboard
   - [Looker Studio](https://lookerstudio.google.com/reporting/3768e8b5-822b-4d35-b954-feb34c37324c)
-  - Tableau Public
+  - [Tableau Public](https://public.tableau.com/views/MyFirstTableauDashboard_16825470481690/MyFirstDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
   - Power BI
 
 Badges:
