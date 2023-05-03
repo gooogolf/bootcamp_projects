@@ -20,6 +20,8 @@ Data Science Bookcamp with DataRockie
 - Statistics
   - [Titanic survival: Model_Eval_Assignment](https://colab.research.google.com/drive/1t5l3wzp2Rrgp0OH8UUlTBZjNanKhedYc?usp=sharing)
 - Intro to Classical Machine Learning
+- Web Scraping
+  - [IMDb](https://datalore.jetbrains.com/view/notebook/JPzU5hSPirgYjiC7RlUynK)
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
