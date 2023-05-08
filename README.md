@@ -21,7 +21,8 @@ Data Science Bookcamp with DataRockie
   - [Titanic survival: Model_Eval_Assignment](https://colab.research.google.com/drive/1t5l3wzp2Rrgp0OH8UUlTBZjNanKhedYc?usp=sharing)
 - Intro to Classical Machine Learning
 - Web Scraping
-  - [IMDb](https://datalore.jetbrains.com/view/notebook/JPzU5hSPirgYjiC7RlUynK)
+  - [IMDb](https://datalore.jetbrains.com/view/notebook/JPzU5hSPirgYjiC7RlUynK#**Mini-Project-01---IMDb-Web-Scraping**)
+  - [SpecPhone](https://datalore.jetbrains.com/view/notebook/JPzU5hSPirgYjiC7RlUynK#**Mini-Project-02---SpecPhone-Phone-Database**)
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashboard
